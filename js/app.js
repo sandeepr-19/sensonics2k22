@@ -29,7 +29,7 @@ particlesJS(
       shape: {
         type: "circle",
         stroke: {
-          width: 1,
+          width: 1.2,
           color: "#ffffff",
         },
         polygon: {
@@ -52,7 +52,7 @@ particlesJS(
         },
       },
       size: {
-        value: 5,
+        value: 6,
         random: true,
         anim: {
           enable: false,
@@ -65,7 +65,7 @@ particlesJS(
         enable: true,
         distance: 150,
         color: "#ffffff",
-        opacity: 0.8,
+        opacity: 0.9,
         width: 1.2,
       },
       move: {
