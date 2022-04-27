@@ -2,7 +2,7 @@
   "use strict";
   /** countdown for event**/
   // Set the date we're counting down to
-  var countDownDate1 = new Date("may 10, 2022 08:00:00").getTime();
+  var countDownDate1 = new Date("may 10, 2022 09:00:00").getTime();
 
   // Update the count down every 1 second
   var x1 = setInterval(function () {
