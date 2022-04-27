@@ -22,7 +22,7 @@
 
     // Output the result in an element with id="demo"
     document.getElementById("time").innerHTML =
-      days1 + "D " + hours1 + "h " + minutes1 + "m " + seconds1 + "s ";
+      days1 + "D " + hours1 + "H " + minutes1 + "M " + seconds1 + "S ";
 
     // If the count down is over, write some text
     if (distance1 < 0) {
