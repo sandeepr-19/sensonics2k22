@@ -26,7 +26,7 @@
 
     // If the count down is over, write some text
     if (distance1 < 0) {
-      clearInterval(x);
+      clearInterval(x1);
       document.getElementById("time").innerHTML = "EXPIRED";
     }
   }, 1000);
